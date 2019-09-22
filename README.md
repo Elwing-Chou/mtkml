@@ -4,13 +4,13 @@
 
 降維
 
->> 1. PCA
->> 2. Face Recognition
->> 3. Word Embeddings
+> 1. PCA
+> 2. Face Recognition
+> 3. Word Embeddings
 
 進階回歸
 
->> 1. Kaggle House Price w. Lasso
+> 1. Kaggle House Price w. Lasso
 
 ## PCA
 
