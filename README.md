@@ -4,6 +4,8 @@
 
 ### (如果沒Keras) 讀取MNIST資料集
 
+先下載 [MNIST資料集](https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz)
+
 ```python
 def load_data(path):
     with np.load(path) as f:
