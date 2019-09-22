@@ -27,3 +27,11 @@ def load_data(path):
 
 (x_train, y_train), (x_test, y_test) = load_data('../input/mnist.npz')
 ```
+
+## 人臉辨識
+
+[Colab](https://colab.research.google.com/drive/1pk1Vnqh5S0eEZq99BmItU12CNah4D_It)
+
+## 語意分析
+
+[Colab](https://colab.research.google.com/drive/1QXW5-A-Wxx1fsPxpyYFs6E-S3bVtuMTU)
