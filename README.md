@@ -35,3 +35,7 @@ def load_data(path):
 ## 語意分析
 
 [Colab](https://colab.research.google.com/drive/1QXW5-A-Wxx1fsPxpyYFs6E-S3bVtuMTU)
+
+## 進階回歸
+
+[Kaggle競賽連結](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
