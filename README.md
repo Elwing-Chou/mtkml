@@ -44,3 +44,14 @@ def load_data(path):
 
 [RandomForesetRegressor比較](https://github.com/Elwing-Chou/MLDemo/blob/master/hourseprice.ipynb)
 
+## 語法: Lambda
+
+```python
+def test(func):
+    print(func(3))
+def m2(n):
+    return 2 * n
+test(m2)
+test(lambda n : 2 * n)
+
+```
