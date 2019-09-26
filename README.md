@@ -60,6 +60,6 @@ test(lambda n : 2 * n)
 
 1. tensorflow==1.8.0
 
-2. keras最新
+2. keras==2.1.5
 
 3. protobuf==3.5.2.post1
