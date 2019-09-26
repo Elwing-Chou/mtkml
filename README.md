@@ -55,3 +55,11 @@ test(m2)
 test(lambda n : 2 * n)
 
 ```
+
+## 如果你是3.6
+
+1. tensorflow==1.8.0
+
+2. keras最新
+
+3. protobuf==3.5.2.post1
