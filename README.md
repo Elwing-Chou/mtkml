@@ -32,6 +32,8 @@ def load_data(path):
 
 [Colab](https://colab.research.google.com/drive/1pk1Vnqh5S0eEZq99BmItU12CNah4D_It)
 
+
+
 ## 語意分析
 
 [Colab](https://colab.research.google.com/drive/1QXW5-A-Wxx1fsPxpyYFs6E-S3bVtuMTU)
@@ -39,3 +41,6 @@ def load_data(path):
 ## 進階回歸
 
 [Kaggle競賽連結](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+
+[RandomForesetRegressor比較](https://github.com/Elwing-Chou/MLDemo/blob/master/hourseprice.ipynb)
+
