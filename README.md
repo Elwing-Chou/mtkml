@@ -63,3 +63,10 @@ test(lambda n : 2 * n)
 2. keras==2.1.5
 
 3. protobuf==3.5.2.post1
+
+
+## colab基底
+
+[PCA](https://colab.research.google.com/drive/1pi0IXMPqNYwoeGYxHuflesjUe5h-nhTR)
+
+[Face](https://colab.research.google.com/drive/19U7o4lpLU2Tl2Bw9kXWDuBHF8udfVtff)
