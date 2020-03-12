@@ -70,3 +70,7 @@ test(lambda n : 2 * n)
 [PCA](https://colab.research.google.com/drive/1pi0IXMPqNYwoeGYxHuflesjUe5h-nhTR)
 
 [Face](https://colab.research.google.com/drive/19U7o4lpLU2Tl2Bw9kXWDuBHF8udfVtff)
+
+## 0312colab基底
+
+[sample](https://colab.research.google.com/drive/1JZR6Rl1BDYGD60g6iTbnR8NDDO62uo7G)
