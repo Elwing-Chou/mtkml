@@ -74,3 +74,5 @@ test(lambda n : 2 * n)
 ## 0312colab基底
 
 [sample](https://colab.research.google.com/drive/1JZR6Rl1BDYGD60g6iTbnR8NDDO62uo7G)
+
+[face](https://colab.research.google.com/drive/1GIbcYKP54QmOWCt2T2GsBNP7vX8lFSvR)
