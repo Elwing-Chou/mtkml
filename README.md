@@ -60,6 +60,12 @@ test(lambda n : 2 * n)
 
 1. tensorflow==2.0.0
 
+## 3.6
+1. tensorflow==1.18.0
+
+2. keras==2.1.5
+
+3. protobuf==3.5.2.post1
 
 ## colab基底
 
