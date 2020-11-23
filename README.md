@@ -76,3 +76,11 @@ test(lambda n : 2 * n)
 [sample](https://colab.research.google.com/drive/1JZR6Rl1BDYGD60g6iTbnR8NDDO62uo7G)
 
 [face](https://colab.research.google.com/drive/1GIbcYKP54QmOWCt2T2GsBNP7vX8lFSvR)
+
+## 1123素材
+
+[PCA製作](https://drive.google.com/file/d/1cVLPTwgFg5tmMvxikaxKfw0avP9EkUDi/view?usp=sharing)
+
+[PCA觀察](https://colab.research.google.com/drive/11YJK9SdttgQeeZ-WzWockha5ThzJbTgj?usp=sharing)
+
+[PCA MNIST基底](https://colab.research.google.com/drive/1kVFZjVg4XZjcW6yFXueDqIzndC95mxCI?usp=sharing)
