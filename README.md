@@ -86,3 +86,5 @@ test(lambda n : 2 * n)
 [PCA觀察](https://colab.research.google.com/drive/11YJK9SdttgQeeZ-WzWockha5ThzJbTgj?usp=sharing)
 
 [PCA MNIST基底](https://colab.research.google.com/drive/1kVFZjVg4XZjcW6yFXueDqIzndC95mxCI?usp=sharing)
+
+[Face基底](https://colab.research.google.com/drive/1fe7_ewgj8PM9320_R2VXIPURzr9I2pIS?usp=sharing)
