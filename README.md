@@ -56,13 +56,9 @@ test(lambda n : 2 * n)
 
 ```
 
-## 如果你是3.6
+## 如果你是3.7
 
-1. tensorflow==1.8.0
-
-2. keras==2.1.5
-
-3. protobuf==3.5.2.post1
+1. tensorflow==2.0.0
 
 
 ## colab基底
