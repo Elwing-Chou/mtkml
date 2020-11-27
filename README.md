@@ -93,3 +93,5 @@ test(lambda n : 2 * n)
 ## 1127基底
 
 [PCA](https://colab.research.google.com/drive/1jOsZD40opJNI3EVJAl15XzIqvtiz3NbK?usp=sharing)
+
+[Face(GPU)](https://colab.research.google.com/drive/1Fdzjw0Rh4ZzRVDvObKAskPAY4AHP-2za?usp=sharing)
