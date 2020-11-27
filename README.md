@@ -89,3 +89,7 @@ test(lambda n : 2 * n)
 
 
 [Face基底](https://colab.research.google.com/drive/1fe7_ewgj8PM9320_R2VXIPURzr9I2pIS?usp=sharing)
+
+## 1127基底
+
+[PCA](https://colab.research.google.com/drive/1jOsZD40opJNI3EVJAl15XzIqvtiz3NbK?usp=sharing)
