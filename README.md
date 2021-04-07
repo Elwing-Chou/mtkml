@@ -100,4 +100,4 @@ test(lambda n : 2 * n)
 
 [PCA](https://colab.research.google.com/drive/1cMj_BNmupHHiU_UJnt8UEaLEc-EQcfmH?usp=sharing)
 
-[Face(GPU)](https://colab.research.google.com/drive/1H3UFI2foliF_eL8z1oSLW7D-Cf6xJQ9s?usp=sharing)
+[Face(GPU)](https://colab.research.google.com/drive/1Fdzjw0Rh4ZzRVDvObKAskPAY4AHP-2za?usp=sharing)
