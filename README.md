@@ -101,3 +101,7 @@ test(lambda n : 2 * n)
 [PCA](https://colab.research.google.com/drive/1cMj_BNmupHHiU_UJnt8UEaLEc-EQcfmH?usp=sharing)
 
 [Face(GPU)](https://colab.research.google.com/drive/1Fdzjw0Rh4ZzRVDvObKAskPAY4AHP-2za?usp=sharing)
+
+# 0302基底
+
+[PCA](https://colab.research.google.com/drive/1zyXQCcPBZ9We53o0rQWb6-XYCFJQ4biU?usp=sharing)
