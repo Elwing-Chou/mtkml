@@ -105,3 +105,5 @@ test(lambda n : 2 * n)
 # 0302基底
 
 [PCA](https://colab.research.google.com/drive/1zyXQCcPBZ9We53o0rQWb6-XYCFJQ4biU?usp=sharing)
+
+[LDA](https://colab.research.google.com/drive/1YuEIUmo5ftMu9g2YFNxG1Ex9T58Dy_nG?usp=sharing)
