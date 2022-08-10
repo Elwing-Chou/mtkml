@@ -112,4 +112,4 @@ test(lambda n : 2 * n)
 
 [PCA](https://colab.research.google.com/drive/1b-MYpGO-TloMS2NcepfM4tQ6LBLmCvkO?usp=sharing)
 
-[LDA)(https://colab.research.google.com/drive/1YuEIUmo5ftMu9g2YFNxG1Ex9T58Dy_nG?usp=sharing)
+[LDA](https://colab.research.google.com/drive/1YuEIUmo5ftMu9g2YFNxG1Ex9T58Dy_nG?usp=sharing)
